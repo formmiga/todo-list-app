@@ -1,0 +1,13 @@
+body {
+  background: #ecc5d9;
+  font-family: "Nunito", sans-serif;
+  margin: 50px;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: rgb(106, 17, 82);
+}
